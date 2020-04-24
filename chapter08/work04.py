@@ -1,4 +1,4 @@
-score = 90
+score = 
 
 if score == 100 :
     print("素晴らしいです")
